@@ -1,0 +1,16 @@
+Base
+    cards
+    forms
+    buttons
+icons
+    fa
+    si
+dashboard
+    one
+    two
+
+
+login
+reg
+404
+500
